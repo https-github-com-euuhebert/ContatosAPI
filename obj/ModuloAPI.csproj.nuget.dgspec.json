@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Dev\\projetoDotnet\\ModuloAPI\\ModuloAPI.csproj": {}
+    "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Nova pasta\\ContatosAPI\\ModuloAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Dev\\projetoDotnet\\ModuloAPI\\ModuloAPI.csproj": {
+    "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Nova pasta\\ContatosAPI\\ModuloAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Dev\\projetoDotnet\\ModuloAPI\\ModuloAPI.csproj",
+        "projectUniqueName": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Nova pasta\\ContatosAPI\\ModuloAPI.csproj",
         "projectName": "ModuloAPI",
-        "projectPath": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Dev\\projetoDotnet\\ModuloAPI\\ModuloAPI.csproj",
+        "projectPath": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Nova pasta\\ContatosAPI\\ModuloAPI.csproj",
         "packagesPath": "C:\\Users\\heber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Dev\\projetoDotnet\\ModuloAPI\\obj\\",
+        "outputPath": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Nova pasta\\ContatosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heber\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jOLdpi7MBnHCLXi2icBWh+xFwXPk4wO1KqkFHEvR7G0aNP1pa1qhtPjuLTStbtsLEQhu//A44bOKhd2Z+XvIUg==",
+  "dgSpecHash": "kC3v35tejiwSg2rubM57G9D1bSx6miJ5cERlgZyRA0qfXFMOveb3dT1X9t//IsMpSweUMIeSdS7zBqLPm23xQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Dev\\projetoDotnet\\ModuloAPI\\ModuloAPI.csproj",
+  "projectFilePath": "C:\\Users\\heber\\OneDrive\\Área de Trabalho\\Nova pasta\\ContatosAPI\\ModuloAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heber\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\heber\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
